@@ -264,7 +264,7 @@ a.border-button-black, .border-button-black {
     position: relative;
     width: 100%;
     height: 100%;
-    background: #48AFE1 url(../img/drupal-city-hall.jpg) no-repeat center center fixed;
+    background: #48AFE1 url(../img/limerick-city-night.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -769,7 +769,7 @@ footer,
 }
 
 #location .fa {
-   color: #48AFE1; 
+   color: #48AFE1;
 }
 
 #location h4 br {
