@@ -1,2 +1,2 @@
-# belfast2015
-Drupal Belfast 2015 Bootstrap Theme
+# Limerick 2016
+Drupal Limerick 2016 Bootstrap Theme
