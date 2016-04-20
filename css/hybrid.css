@@ -799,10 +799,12 @@ footer,
 }
 
 .sponsors img {
-    max-width: 100%;
+/*    max-width: 100%;*/
+    width: 270px;
 }
 
 .sponsors h3.heading {
     margin-top: 1em;
     font-size: 2em;
 }
+
