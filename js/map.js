@@ -10,7 +10,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(54.6033658,-5.927102), // The Mac, St Anne's Square
+        center: new google.maps.LatLng(52.6724812,-8.5807581), // IBC, University of Limerick
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
@@ -32,7 +32,7 @@ function init() {
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var image = 'img/map-marker.png';
-    var myLatLng = new google.maps.LatLng(52.6740216,-8.5784668,347);
+    var myLatLng = new google.maps.LatLng(52.6724812,-8.5807581,347);
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
