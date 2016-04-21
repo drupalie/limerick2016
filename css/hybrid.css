@@ -808,3 +808,11 @@ footer,
     font-size: 2em;
 }
 
+dt {
+  float: left;
+  width: 47px;
+}
+
+dd {
+  margin-left: 65px;
+}
